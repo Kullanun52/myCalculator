@@ -3,3 +3,9 @@ Topic details
 ## subtitle
 Hello DIP
 เครื่องคิดเลข
+
+2. Clone a project from git using vscode
+     - If need, git config --global user.name "Username"
+     - If need, git config --global user.email "email.com"
+     
+     
